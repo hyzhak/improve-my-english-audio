@@ -1,0 +1,25 @@
+{
+  "name": "improve-my-english",
+  "version": "1.0.0",
+  "description": "improve my english action for google",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyzhak/improve-my-english-audio.git"
+  },
+  "keywords": [
+    "action",
+    "of",
+    "google",
+    "english"
+  ],
+  "author": "Eugene Krevenets <ievgenii.krevenes@gmail.com> (http://hyzhak.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyzhak/improve-my-english-audio/issues"
+  },
+  "homepage": "https://github.com/hyzhak/improve-my-english-audio#readme"
+}
