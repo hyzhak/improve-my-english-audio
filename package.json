@@ -1,6 +1,9 @@
 {
   "name": "improve-my-english",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.11.5"
+  },
   "description": "improve my english action for google",
   "main": "index.js",
   "scripts": {
